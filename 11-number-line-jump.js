@@ -23,4 +23,4 @@ function numberLineJumps(x1, v1, x2, v2) {
   }
 }
 
-numberLineJumps(0, 3, 4, 2)
+numberLineJumps(0, 2, 5, 3)
